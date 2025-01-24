@@ -5,7 +5,7 @@
   <img decoding="async" src="https://github.com/liznayarit/liznayarit/blob/main/Profilebanner.png" width="800"/>
 
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liznayarit/liz-pabon)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liz-pabon)
 
 
 <h1>
@@ -20,12 +20,27 @@
 ### :woman_technologist: Sobre mí :
 
 
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionada de la tecnología y disfrutando de una transición laboral al Quality Assurance <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
+* :telescope: Actualmente en busqueda de trabajo como Quality Assurance o QA Engineer :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Estudie un bootcamp online :blue_book: y obtuve mis peacticas y reaice vaios proyectos :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+
+* Realización de pruebas para aplicación web (funcional, regresión, casos de pruebas , listas de comprobación,
+informes de errores en JIRA) logrando arreglar más de 20 defectos en el software.
+
+• Uso de pruebas de APIS para validar la funcionalidad y desempeño, realizando casos de pruebas e informes de
+errores en JIRA, logrando arreglar más de 30 defectos en el software.
+
+• Realización de pruebas para aplicación Móvil (listas de comprobación, informes de errores en JIRA.
+
+• Manejo de queries de SQL para la verificación de información de la base de datos.
+
+• Manejo en test automatizados usando Python y Selenium en Pycharm.
+
+• Visualización y descomposición de requisitos a través de diseño de diagramas de mapas mentales, casos de
+pruebas, listas de comprobación, pruebas de API en postman, informes de errores de JIRA.
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
