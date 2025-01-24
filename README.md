@@ -5,8 +5,7 @@
   <img decoding="async" src="https://github.com/liznayarit/liznayarit/blob/main/Profilebanner.png" width="800"/>
 
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liznayarit/)
-</div>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liznayarit/liz-pabon)
 
 
 <h1>
@@ -64,6 +63,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data An
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
 
+</div>
 
 
 
@@ -74,17 +74,3 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data An
 
 
 
-
-- 😄 Estoy en busqueda de empleo Como QA Engineer
-- 📫 Como contactarme:
-- [Linkedln] (https://www.linkedin.com/in/liz-pabon)
-
-## Habilidades:
-![bvbvbb](https://img.shields.io/badge/any_text-you_like-blue)</br>
-![HhHhhh](https://img.shields.io/badge/any_text-you_like-blue)</br>
-![hhhhh](https://img.shields.io/badge/any_text-you_like-blue)</br>
-![hhhhh](https://img.shields.io/badge/any_text-you_like-blue)</br>
-![hhhhh](https://img.shields.io/badge/any_text-you_like-blue)</br>
-![hhhhh](https://img.shields.io/badge/any_text-you_like-blue)</br>
-![hhhhh](https://img.shields.io/badge/any_text-you_like-blue)</br>
-![hhhhh](https://img.shields.io/badge/any_text-you_like-blue)</br>
