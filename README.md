@@ -25,9 +25,9 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Quality
 
 * :telescope: Actualmente en busqueda de trabajo como Quality Assurance o QA Engineer y enfrentarme a nuevos retos. :muscle:
 
-* :seedling: Estudie un bootcamp online :blue_book: y obtuve mis peacticas y reaice vaios proyectos :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Estudie un bootcamp online :blue_book: y obtuve mis practicas y realice vaios proyectos :computer: 
 
-* Realización de pruebas para aplicación web (funcional, regresión, casos de pruebas , listas de comprobación,
+* :: Realización de pruebas para aplicación web (funcional, regresión, casos de pruebas , listas de comprobación,
 informes de errores en JIRA) logrando arreglar más de 20 defectos en el software.
 
 • Uso de pruebas de APIS para validar la funcionalidad y desempeño, realizando casos de pruebas e informes de
