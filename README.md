@@ -30,9 +30,6 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Quality
 :computer: Realización de pruebas para aplicación web (funcional, regresión, casos de pruebas , listas de comprobación,
 informes de errores en JIRA) logrando arreglar más de 20 defectos en el software.
 
-:computer Uso de pruebas de APIS para validar la funcionalidad y desempeño, realizando casos de pruebas e informes de
-errores en JIRA, logrando arreglar más de 30 defectos en el software.
-
 :blue_book: Realización de pruebas para aplicación Móvil (listas de comprobación, informes de errores en JIRA.
 
 :computer: Manejo de queries de SQL para la verificación de información de la base de datos.
@@ -44,7 +41,7 @@ pruebas, listas de comprobación, pruebas de API en postman, informes de errores
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Liz Pabon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liz-pabon/)
 
 
 
@@ -56,13 +53,19 @@ pruebas, listas de comprobación, pruebas de API en postman, informes de errores
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+    <img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+ <img decoding="async" src="https://img.shields.io/badge/MS PowerPoint-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerpoint"/>
   </a>
-
+  <img decoding="async" src="https://img.shields.io/badge/MS Word-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="word"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/HTML-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="html"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/CSS-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="cssi"/>
+  </a>
+  
 </div>
 
 
