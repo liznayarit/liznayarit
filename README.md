@@ -23,7 +23,7 @@
 Apasionada de la tecnología y disfrutando de una transición laboral al Quality Assurance <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-* :telescope: Actualmente en busqueda de trabajo como Quality Assurance o QA Engineer :muscle:
+* :telescope: Actualmente en busqueda de trabajo como Quality Assurance o QA Engineer y enfrentarme a nuevos retos. :muscle:
 
 * :seedling: Estudie un bootcamp online :blue_book: y obtuve mis peacticas y reaice vaios proyectos :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
