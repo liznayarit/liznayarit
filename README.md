@@ -3,7 +3,7 @@
 **liznayarit/liznayarit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/ProfileBanner.png" width="800"/>
+  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Profile Banner.png" width="800"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
