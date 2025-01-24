@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 ##Habilidades:
 ![bvbvbb](https://img.shields.io/badge/any_text-you_like-blue)</br>
-https://img.shields.io/badge/any_text-you_like-blue
-https://img.shields.io/badge/any_text-you_like-blue
-https://img.shields.io/badge/:badgeContent
-- https://img.shields.io/badge/any_text-you_like-blue- https://img.shields.io/badge/any_text-you_like-blue
+![](https://img.shields.io/badge/any_text-you_like-blue)</br>
+![]https://img.shields.io/badge/any_text-you_like-blue</br>
+![]https://img.shields.io/badge/any_text-you_like-blue</br>
+![]https://img.shields.io/badge/any_text-you_like-blue</br>
+![]https://img.shields.io/badge/any_text-you_like-blue</br>
