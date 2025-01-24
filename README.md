@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 Como contactarme:
 - [Linkedln] (https://www.linkedin.com/in/liz-pabon)
 
-##Habilidades:
+## Habilidades:
 ![bvbvbb](https://img.shields.io/badge/any_text-you_like-blue)</br>
 ![HhHhhh](https://img.shields.io/badge/any_text-you_like-blue)</br>
 ![hhhhh](https://img.shields.io/badge/any_text-you_like-blue)</br>
