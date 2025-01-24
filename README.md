@@ -30,16 +30,16 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Quality
 :computer: Realización de pruebas para aplicación web (funcional, regresión, casos de pruebas , listas de comprobación,
 informes de errores en JIRA) logrando arreglar más de 20 defectos en el software.
 
-:jira: Uso de pruebas de APIS para validar la funcionalidad y desempeño, realizando casos de pruebas e informes de
+:computer Uso de pruebas de APIS para validar la funcionalidad y desempeño, realizando casos de pruebas e informes de
 errores en JIRA, logrando arreglar más de 30 defectos en el software.
 
 :blue_book: Realización de pruebas para aplicación Móvil (listas de comprobación, informes de errores en JIRA.
 
-:sql: Manejo de queries de SQL para la verificación de información de la base de datos.
+:computer: Manejo de queries de SQL para la verificación de información de la base de datos.
 
 :computer: Manejo en test automatizados usando Python y Selenium en Pycharm.
 
-:ap: Visualización y descomposición de requisitos a través de diseño de diagramas de mapas mentales, casos de
+:computer: Visualización y descomposición de requisitos a través de diseño de diagramas de mapas mentales, casos de
 pruebas, listas de comprobación, pruebas de API en postman, informes de errores de JIRA.
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
