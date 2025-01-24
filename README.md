@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - [Linkedln] (https://www.linkedin.com/in/liz-pabon)
 
 ##Habilidades:
-(https://img.shields.io/badge/any_text-you_like-blue)
+(https://img.shields.io/badge/any_text-you_like-blue)</br>
 https://img.shields.io/badge/any_text-you_like-blue
 https://img.shields.io/badge/any_text-you_like-blue
 https://img.shields.io/badge/:badgeContent
