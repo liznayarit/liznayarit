@@ -41,8 +41,7 @@ pruebas, listas de comprobación, pruebas de API en postman, informes de errores
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* :mailbox: ¿Quieres contactar conmigo? [![Liz Pabon](https://img.shields.io/badge/-Liz Pabon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liz-pabon)
-[![Linkedin Badge](https://img.shields.io/badge/-Liz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liz-pabon/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Liz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liz-pabon/)
 
 
 ---
