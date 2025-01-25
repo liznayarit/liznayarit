@@ -41,7 +41,8 @@ pruebas, listas de comprobación, pruebas de API en postman, informes de errores
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* :mailbox: ¿Quieres contactar conmigo? [![Liz Pabon](https://img.shields.io/badge/Liz Pabon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liz-pabon)
+* :mailbox: ¿Quieres contactar conmigo?
+* [![Liz Pabon](https://img.shields.io/badge/Liz Pabon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liz-pabon)
 
 
 
@@ -63,30 +64,10 @@ pruebas, listas de comprobación, pruebas de API en postman, informes de errores
   </a>
   <img decoding="async" src="https://img.shields.io/badge/HTML-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="html"/>
   </a>
-  <img decoding="async" src="https://img.shields.io/badge/CSS-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="cssi"/>
+  <img decoding="async" src="https://img.shields.io/badge/CSS-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="css"/>
   </a>
   
 </div>
-
-
-
-
----
-
-### :hammer_and_wrench: Lenguajes y herramientas :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
-
-</div>
-
-
-
-
-
 
 
 
