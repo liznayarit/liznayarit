@@ -2,7 +2,7 @@
 **liznayarit/liznayarit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/liznayarit/liznayarit/blob/main/Profilebanner.png" width="800"/>
+  <img decoding="async" src="https://github.com/liznayarit/liznayarit/blob/main/Profilebanner.png" width="1800"/>
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liz-pabon)
